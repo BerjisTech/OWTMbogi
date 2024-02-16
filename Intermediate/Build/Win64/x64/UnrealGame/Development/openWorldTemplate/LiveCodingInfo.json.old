@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.openWorldTemplate.cpp.obj": [
+			"openWorldTemplate.cpp.obj"
+		]
+	}
+}

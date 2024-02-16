@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.openWorldTemplate.cpp.obj": [
+			"mapLocator.gen.cpp.obj",
+			"openWorldTemplate.init.gen.cpp.obj",
+			"StartPathFinder.gen.cpp.obj",
+			"openWorldTemplate.cpp.obj",
+			"mapLocator.cpp.obj",
+			"StartPathFinder.cpp.obj"
+		]
+	}
+}

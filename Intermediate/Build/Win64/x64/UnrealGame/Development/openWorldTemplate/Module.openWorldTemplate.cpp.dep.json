@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\sombo\\plugins\\openworldtemplate\\intermediate\\build\\win64\\x64\\unrealgame\\development\\openworldtemplate\\module.openworldtemplate.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\sombo\\intermediate\\build\\win64\\x64\\sombo\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\sombo\\plugins\\openworldtemplate\\intermediate\\build\\win64\\x64\\unrealgame\\development\\openworldtemplate\\definitions.openworldtemplate.h",
+            "f:\\sombo\\plugins\\openworldtemplate\\intermediate\\build\\win64\\unrealgame\\inc\\openworldtemplate\\uht\\maplocator.gen.cpp",
+            "f:\\sombo\\plugins\\openworldtemplate\\source\\openworldtemplate\\public\\maplocator.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "f:\\sombo\\plugins\\openworldtemplate\\intermediate\\build\\win64\\unrealgame\\inc\\openworldtemplate\\uht\\maplocator.generated.h",
+            "f:\\sombo\\plugins\\openworldtemplate\\intermediate\\build\\win64\\unrealgame\\inc\\openworldtemplate\\uht\\openworldtemplate.init.gen.cpp",
+            "f:\\sombo\\plugins\\openworldtemplate\\intermediate\\build\\win64\\unrealgame\\inc\\openworldtemplate\\uht\\startpathfinder.gen.cpp",
+            "f:\\sombo\\plugins\\openworldtemplate\\source\\openworldtemplate\\public\\startpathfinder.h",
+            "f:\\sombo\\plugins\\openworldtemplate\\intermediate\\build\\win64\\unrealgame\\inc\\openworldtemplate\\uht\\startpathfinder.generated.h",
+            "f:\\sombo\\plugins\\openworldtemplate\\source\\openworldtemplate\\openworldtemplate.cpp",
+            "f:\\sombo\\plugins\\openworldtemplate\\source\\openworldtemplate\\openworldtemplate.h",
+            "f:\\sombo\\plugins\\openworldtemplate\\source\\openworldtemplate\\private\\maplocator.cpp",
+            "f:\\sombo\\plugins\\openworldtemplate\\source\\openworldtemplate\\private\\startpathfinder.cpp",
+            "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\engineutils.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

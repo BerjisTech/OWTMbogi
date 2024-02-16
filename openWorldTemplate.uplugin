@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "openWorldTemplate",
+	"Description": "Bootstrap your openworld game",
+	"Category": "Game Design",
+	"CreatedBy": "LordSombo",
+	"CreatedByURL": "https://berjis.tech/openworld",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+        {
+            "Name": "openWorldTemplate",
+            "Type": "Runtime",
+            "LoadingPhase": "Default",
+			"AdditionalDependencies": [
+                "Engine"
+            ]
+        }
+    ]
+}

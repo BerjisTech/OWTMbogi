@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.openWorldTemplate.cpp.obj": [
+			"AIDriver.gen.cpp.obj",
+			"HardCodeVehicle.gen.cpp.obj",
+			"mapLocator.gen.cpp.obj",
+			"openWorldTemplate.init.gen.cpp.obj",
+			"StartPathFinder.gen.cpp.obj",
+			"openWorldTemplate.cpp.obj",
+			"AIDriver.cpp.obj",
+			"HardCodeVehicle.cpp.obj",
+			"mapLocator.cpp.obj",
+			"StartPathFinder.cpp.obj"
+		]
+	}
+}
